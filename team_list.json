@@ -1,0 +1,4617 @@
+[
+  {
+    "name": "Abil Christian",
+    "id": "ABIL",
+    "conf": "WAC",
+    "subdivision": "FCS",
+    "full_conf": "Western Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Alabama A&M",
+    "id": "ALAM",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Alabama St.",
+    "id": "ALST",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Alcorn State",
+    "id": "ALCORN",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "App. State",
+    "id": "APLST",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 724.56,
+      "2021": 400,
+      "2022": 724.39
+    }
+  },
+  {
+    "name": "Arizona St.",
+    "id": "ARIZST",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 650,
+      "2019": 724.21,
+      "2021": 745.61,
+      "2022": 650
+    }
+  },
+  {
+    "name": "Arkansas St.",
+    "id": "ARKST",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 723.86,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Auburn",
+    "id": "AUBURN",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 901.4,
+      "2019": 825.09,
+      "2021": 729.3,
+      "2022": 726.32
+    }
+  },
+  {
+    "name": "Austin Peay",
+    "id": "AP",
+    "conf": "OVC",
+    "subdivision": "FCS",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 262.5,
+      "2019": 150,
+      "2021": 250.0,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Ball St.",
+    "id": "BALLST",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 724.74,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Baylor",
+    "id": "BAYLOR",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 878.77
+    }
+  },
+  {
+    "name": "Bethune-Cookman",
+    "id": "BTHN",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Boise St.",
+    "id": "BOISE",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 774.91,
+      "2019": 730.35,
+      "2021": 724.91,
+      "2022": 724.56
+    }
+  },
+  {
+    "name": "Boston College",
+    "id": "BC",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 726.84,
+      "2019": 700,
+      "2021": 724.56,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Bowling Green",
+    "id": "BGREEN",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "BYU",
+    "id": "BYU",
+    "conf": "Independent",
+    "subdivision": "FBS",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 724.74,
+      "2022": 764.74
+    }
+  },
+  {
+    "name": "Brown Univ.",
+    "id": "BRO",
+    "conf": "Ivy League",
+    "subdivision": "FCS",
+    "full_conf": "Ivy League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Bryant",
+    "id": "BRY",
+    "conf": "NEC",
+    "subdivision": "FCS",
+    "full_conf": "Northeast Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Bucknell",
+    "id": "BUCK",
+    "conf": "Patriot League",
+    "subdivision": "FCS",
+    "full_conf": "Patriot League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Butler",
+    "id": "BUT",
+    "conf": "Big East",
+    "subdivision": "FCS",
+    "full_conf": "Big East Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Cal Poly",
+    "id": "CPOLY",
+    "conf": "BWC",
+    "subdivision": "FCS",
+    "full_conf": "Big West Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Fresno St.",
+    "id": "FRESNO",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 723.86,
+      "2019": 725.09,
+      "2021": 500,
+      "2022": 729.3
+    }
+  },
+  {
+    "name": "Sacramento St.",
+    "id": "SACST",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 362.5
+    }
+  },
+  {
+    "name": "Campbell",
+    "id": "CAMP",
+    "conf": "Big South",
+    "subdivision": "FCS",
+    "full_conf": "Big South Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "CCSU",
+    "id": "CCTST",
+    "conf": "NEC",
+    "subdivision": "FCS",
+    "full_conf": "Northeast Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Central Michigan",
+    "id": "CMICH",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Charleston So.",
+    "id": "CHARSO",
+    "conf": "Big South",
+    "subdivision": "FCS",
+    "full_conf": "Big South Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Clemson",
+    "id": "CLEM",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 982.63,
+      "2019": 993.86,
+      "2021": 977.54,
+      "2022": 950.35
+    }
+  },
+  {
+    "name": "Coastal Carolina",
+    "id": "CSTCAR",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 764.39,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Colgate",
+    "id": "COLG",
+    "conf": "Patriot League",
+    "subdivision": "FCS",
+    "full_conf": "Patriot League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 318.75,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Holy Cross",
+    "id": "HOLY",
+    "conf": "Patriot League",
+    "subdivision": "FCS",
+    "full_conf": "Patriot League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 293.75
+    }
+  },
+  {
+    "name": "Colo St.",
+    "id": "COLOST",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 500,
+      "2021": 500,
+      "2022": 500
+    }
+  },
+  {
+    "name": "Columbia",
+    "id": "CLMB",
+    "conf": "Ivy League",
+    "subdivision": "FCS",
+    "full_conf": "Ivy League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Cornell",
+    "id": "CORN",
+    "conf": "Ivy League",
+    "subdivision": "FCS",
+    "full_conf": "Ivy League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Dartmouth",
+    "id": "DART",
+    "conf": "Ivy League",
+    "subdivision": "FCS",
+    "full_conf": "Ivy League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Davidson",
+    "id": "DAVID",
+    "conf": "A-10",
+    "subdivision": "FCS",
+    "full_conf": "Atlantic 10 Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Delaware St.",
+    "id": "DEST",
+    "conf": "MEAC",
+    "subdivision": "FCS",
+    "full_conf": "Mid-Eastern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Utah Tech",
+    "id": "UTTCH",
+    "conf": "WAC",
+    "subdivision": "FCS",
+    "full_conf": "Western Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Drake",
+    "id": "DRA",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Duke",
+    "id": "DUKE",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Duquesne",
+    "id": "DUQ",
+    "conf": "A-10",
+    "subdivision": "FCS",
+    "full_conf": "Atlantic 10 Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "E. Carolina",
+    "id": "ECU",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 550,
+      "2019": 550,
+      "2021": 550,
+      "2022": 550
+    }
+  },
+  {
+    "name": "E. Tenn.",
+    "id": "ETNST",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "E. Illinois",
+    "id": "EIL",
+    "conf": "OVC",
+    "subdivision": "FCS",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "E. Kentucky",
+    "id": "EKY",
+    "conf": "ASUN",
+    "subdivision": "FCS",
+    "full_conf": "ASUN Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "E. Michigan",
+    "id": "EMICH",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "E. Washington",
+    "id": "EWASH",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 362.5,
+      "2019": 387.5,
+      "2021": 318.75,
+      "2022": 331.25
+    }
+  },
+  {
+    "name": "Elon",
+    "id": "ELON",
+    "conf": "CAA",
+    "subdivision": "FCS",
+    "full_conf": "Colonial Athletic Association",
+    "starting_point_values": {
+      "2018": 325.0,
+      "2019": 275.0,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Florida A&M",
+    "id": "FAMU",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "FAU",
+    "id": "FAU",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 730.35,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "FIU",
+    "id": "FIU",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Florida St.",
+    "id": "FSU",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 791.05,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Fordham",
+    "id": "FORD",
+    "conf": "A-10",
+    "subdivision": "FCS",
+    "full_conf": "Atlantic 10 Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Furman",
+    "id": "FUR",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 275.0,
+      "2019": 300.0,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Gardner-Webb",
+    "id": "GRDWB",
+    "conf": "Big South",
+    "subdivision": "FCS",
+    "full_conf": "Big South Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Georgetown",
+    "id": "GTOWN",
+    "conf": "Big East",
+    "subdivision": "FCS",
+    "full_conf": "Big East Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Ga. Southern",
+    "id": "GAS",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Georgia St.",
+    "id": "GAST",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Georgia Tech",
+    "id": "GATECH",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Grambling St.",
+    "id": "GRAM",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Hampton",
+    "id": "HAMP",
+    "conf": "Big South",
+    "subdivision": "FCS",
+    "full_conf": "Big South Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Harvard",
+    "id": "HARV",
+    "conf": "Ivy League",
+    "subdivision": "FCS",
+    "full_conf": "Ivy League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Houston Baptist",
+    "id": "HOUBP",
+    "conf": "Southland",
+    "subdivision": "FCS",
+    "full_conf": "Southland Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Howard",
+    "id": "HOW",
+    "conf": "MEAC",
+    "subdivision": "FCS",
+    "full_conf": "Mid-Eastern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Idaho St.",
+    "id": "IDST",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Illinois St.",
+    "id": "ILST",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 281.25,
+      "2019": 325.0,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Indiana St.",
+    "id": "INST",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 306.25,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Indiana",
+    "id": "IND",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 820.0,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Iowa St.",
+    "id": "IOWAST",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 725.09,
+      "2019": 776.67,
+      "2021": 927.19,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Jackson St.",
+    "id": "JACKST",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 300.0
+    }
+  },
+  {
+    "name": "Jacksonville St.",
+    "id": "JAXST",
+    "conf": "ASUN",
+    "subdivision": "FCS",
+    "full_conf": "ASUN Conference",
+    "starting_point_values": {
+      "2018": 368.75,
+      "2019": 368.75,
+      "2021": 356.25,
+      "2022": 150
+    }
+  },
+  {
+    "name": "James Madison",
+    "id": "JMAD",
+    "conf": "CAA",
+    "subdivision": "FCS",
+    "full_conf": "Colonial Athletic Association",
+    "starting_point_values": {
+      "2018": 393.75,
+      "2019": 393.75,
+      "2021": 393.75,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Kansas St.",
+    "id": "KSTATE",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 725.44,
+      "2019": 700,
+      "2021": 700,
+      "2022": 726.14
+    }
+  },
+  {
+    "name": "Kennesaw St.",
+    "id": "KENSAW",
+    "conf": "ASUN",
+    "subdivision": "FCS",
+    "full_conf": "ASUN Conference",
+    "starting_point_values": {
+      "2018": 375.0,
+      "2019": 343.75,
+      "2021": 281.25,
+      "2022": 368.75
+    }
+  },
+  {
+    "name": "Kent St.",
+    "id": "KENTST",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Lafayette",
+    "id": "LAF",
+    "conf": "Patriot League",
+    "subdivision": "FCS",
+    "full_conf": "Patriot League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Lamar",
+    "id": "LAMAR",
+    "conf": "WAC",
+    "subdivision": "FCS",
+    "full_conf": "Western Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Lehigh",
+    "id": "LEH",
+    "conf": "Patriot League",
+    "subdivision": "FCS",
+    "full_conf": "Patriot League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Liberty",
+    "id": "LIB",
+    "conf": "Independent",
+    "subdivision": "FBS",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 730.0,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Long Island",
+    "id": "LIUPOST",
+    "conf": "NEC",
+    "subdivision": "FCS",
+    "full_conf": "Northeast Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "LSU",
+    "id": "LSU",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 742.28,
+      "2019": 934.04,
+      "2021": 834.39,
+      "2022": 733.33
+    }
+  },
+  {
+    "name": "Louisiana Tech",
+    "id": "LATECH",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Marist",
+    "id": "MARIST",
+    "conf": "MAAC",
+    "subdivision": "FCS",
+    "full_conf": "Metro Atlantic Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Marshall",
+    "id": "MRSHL",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "McNeese St.",
+    "id": "MCN",
+    "conf": "Southland",
+    "subdivision": "FCS",
+    "full_conf": "Southland Conference",
+    "starting_point_values": {
+      "2018": 293.75,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Mercer",
+    "id": "MERCER",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 262.5
+    }
+  },
+  {
+    "name": "Merrimack",
+    "id": "MERMAK",
+    "conf": "NE-10",
+    "subdivision": "FCS",
+    "full_conf": "Northeast-10 Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Miami",
+    "id": "MIAOH",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Michigan St.",
+    "id": "MICHST",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 877.54,
+      "2019": 789.82,
+      "2021": 700,
+      "2022": 834.39
+    }
+  },
+  {
+    "name": "Middle Tenn.",
+    "id": "MTSU",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Mississippi St.",
+    "id": "MISSST",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 802.63,
+      "2019": 738.95,
+      "2021": 700,
+      "2022": 726.32
+    }
+  },
+  {
+    "name": "Miss. Valley",
+    "id": "MSVALST",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Missouri St.",
+    "id": "MOST",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 356.25
+    }
+  },
+  {
+    "name": "Monmouth",
+    "id": "MONNJ",
+    "conf": "MAAC",
+    "subdivision": "FCS",
+    "full_conf": "Metro Atlantic Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 331.25,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Montana St.",
+    "id": "MTST",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 312.5,
+      "2021": 337.5,
+      "2022": 381.25
+    }
+  },
+  {
+    "name": "Morehead St.",
+    "id": "MOREHDST",
+    "conf": "OVC",
+    "subdivision": "FCS",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Morgan St.",
+    "id": "MRGNST",
+    "conf": "MEAC",
+    "subdivision": "FCS",
+    "full_conf": "Mid-Eastern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Murray St.",
+    "id": "MURYST",
+    "conf": "OVC",
+    "subdivision": "FCS",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "NMSU",
+    "id": "NMEXST",
+    "conf": "Independent",
+    "subdivision": "FBS",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Nicholls St.",
+    "id": "NICHST",
+    "conf": "Southland",
+    "subdivision": "FCS",
+    "full_conf": "Southland Conference",
+    "starting_point_values": {
+      "2018": 300.0,
+      "2019": 337.5,
+      "2021": 262.5,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Norfolk St.",
+    "id": "NRFST",
+    "conf": "MEAC",
+    "subdivision": "FCS",
+    "full_conf": "Mid-Eastern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "NC A&T",
+    "id": "NCAT",
+    "conf": "Big South",
+    "subdivision": "FCS",
+    "full_conf": "Big South Conference",
+    "starting_point_values": {
+      "2018": 318.75,
+      "2019": 287.5,
+      "2021": 256.25,
+      "2022": 150
+    }
+  },
+  {
+    "name": "NC Central",
+    "id": "NCCEN",
+    "conf": "MEAC",
+    "subdivision": "FCS",
+    "full_conf": "Mid-Eastern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "NC State",
+    "id": "NCST",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 727.54,
+      "2019": 700,
+      "2021": 726.14,
+      "2022": 855.61
+    }
+  },
+  {
+    "name": "ND State",
+    "id": "NDST",
+    "conf": "The Summit",
+    "subdivision": "FCS",
+    "full_conf": "The Summit League",
+    "starting_point_values": {
+      "2018": 400.0,
+      "2019": 400.0,
+      "2021": 387.5,
+      "2022": 400.0
+    }
+  },
+  {
+    "name": "NAU",
+    "id": "NAZ",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "N Illinois",
+    "id": "NILL",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Northwestern St.",
+    "id": "NWST",
+    "conf": "Southland",
+    "subdivision": "FCS",
+    "full_conf": "Southland Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Northwestern",
+    "id": "NWEST",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 725.96,
+      "2019": 734.74,
+      "2021": 725.09,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Ohio State",
+    "id": "OHIOST",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 944.04,
+      "2019": 944.91,
+      "2021": 968.07,
+      "2022": 987.89
+    }
+  },
+  {
+    "name": "Ohio",
+    "id": "OHIO",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Oklahoma St.",
+    "id": "OKLAST",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 732.63,
+      "2019": 724.21,
+      "2021": 742.46,
+      "2022": 866.49
+    }
+  },
+  {
+    "name": "Old Dominion",
+    "id": "ODU",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Oregon St.",
+    "id": "OREGST",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 650,
+      "2019": 650,
+      "2021": 650,
+      "2022": 650
+    }
+  },
+  {
+    "name": "Penn State",
+    "id": "PSU",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 901.23,
+      "2019": 837.89,
+      "2021": 803.68,
+      "2022": 751.75
+    }
+  },
+  {
+    "name": "Portland St.",
+    "id": "PORTST",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Prairie View",
+    "id": "PRARIE",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Presbyterian",
+    "id": "PRESBY",
+    "conf": "Big South",
+    "subdivision": "FCS",
+    "full_conf": "Big South Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Princeton",
+    "id": "PRINCE",
+    "conf": "Ivy League",
+    "subdivision": "FCS",
+    "full_conf": "Ivy League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 256.25,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Purdue",
+    "id": "PURDUE",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 726.67
+    }
+  },
+  {
+    "name": "Rice",
+    "id": "RICE",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Robert Morris",
+    "id": "ROB",
+    "conf": "Horizon",
+    "subdivision": "FCS",
+    "full_conf": "Horizon League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Rutgers",
+    "id": "RUT",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Sacred Heart",
+    "id": "SACHRT",
+    "conf": "MAAC",
+    "subdivision": "FCS",
+    "full_conf": "Metro Atlantic Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "St. Francis",
+    "id": "STFRPA",
+    "conf": "NEC",
+    "subdivision": "FCS",
+    "full_conf": "Northeast Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Sam Houston",
+    "id": "SAMST",
+    "conf": "WAC",
+    "subdivision": "FCS",
+    "full_conf": "Western Athletic Conference",
+    "starting_point_values": {
+      "2018": 381.25,
+      "2019": 268.75,
+      "2021": 400.0,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Samford",
+    "id": "SAMF",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 343.75,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "San Diego St.",
+    "id": "SDGST",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 500,
+      "2021": 500,
+      "2022": 500
+    }
+  },
+  {
+    "name": "San Jose St.",
+    "id": "SJST",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 500,
+      "2021": 500,
+      "2022": 500
+    }
+  },
+  {
+    "name": "SC State",
+    "id": "SCST",
+    "conf": "MEAC",
+    "subdivision": "FCS",
+    "full_conf": "Mid-Eastern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "SD State",
+    "id": "SDST",
+    "conf": "The Summit",
+    "subdivision": "FCS",
+    "full_conf": "The Summit League",
+    "starting_point_values": {
+      "2018": 387.5,
+      "2019": 381.25,
+      "2021": 381.25,
+      "2022": 387.5
+    }
+  },
+  {
+    "name": "SE Missouri",
+    "id": "SEMOST",
+    "conf": "OVC",
+    "subdivision": "FCS",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 293.75,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "SE Louisiana",
+    "id": "SELOU",
+    "conf": "Southland",
+    "subdivision": "FCS",
+    "full_conf": "Southland Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 300.0,
+      "2022": 306.25
+    }
+  },
+  {
+    "name": "S Illinois",
+    "id": "SIL",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 343.75,
+      "2022": 350.0
+    }
+  },
+  {
+    "name": "SMU",
+    "id": "SMU",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 550,
+      "2019": 550,
+      "2021": 550,
+      "2022": 550
+    }
+  },
+  {
+    "name": "Southern Univ.",
+    "id": "SO",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "S. Utah",
+    "id": "SUT",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Stanford",
+    "id": "STNFRD",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 860.18,
+      "2019": 748.42,
+      "2021": 650,
+      "2022": 650
+    }
+  },
+  {
+    "name": "Stephen F Austin",
+    "id": "SFA",
+    "conf": "WAC",
+    "subdivision": "FCS",
+    "full_conf": "Western Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 343.75
+    }
+  },
+  {
+    "name": "Stetson",
+    "id": "STETSON",
+    "conf": "ASUN",
+    "subdivision": "FCS",
+    "full_conf": "ASUN Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Stony Brook",
+    "id": "STONYBRK",
+    "conf": "America East",
+    "subdivision": "FCS",
+    "full_conf": "America East Conference",
+    "starting_point_values": {
+      "2018": 268.75,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Albany",
+    "id": "ALBANY",
+    "conf": "America East",
+    "subdivision": "FCS",
+    "full_conf": "America East Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Buffalo",
+    "id": "BUFF",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Syracuse",
+    "id": "CUSE",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 760.35,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Tarleton",
+    "id": "TRLST",
+    "conf": "WAC",
+    "subdivision": "FCS",
+    "full_conf": "Western Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Temple",
+    "id": "TEMPLE",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 550,
+      "2019": 550,
+      "2021": 550,
+      "2022": 550
+    }
+  },
+  {
+    "name": "Tennessee St.",
+    "id": "TNST",
+    "conf": "OVC",
+    "subdivision": "FCS",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Tennessee Tech.",
+    "id": "TNTECH",
+    "conf": "OVC",
+    "subdivision": "FCS",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Texas A&M",
+    "id": "TXAM",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 727.37,
+      "2019": 873.16,
+      "2021": 938.25,
+      "2022": 936.32
+    }
+  },
+  {
+    "name": "TCU",
+    "id": "TCU",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 817.19,
+      "2019": 733.68,
+      "2021": 730.7,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Texas So.",
+    "id": "TXSO",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Texas St.",
+    "id": "TXSTSM",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Texas Tech",
+    "id": "TXTECH",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Citadel",
+    "id": "CIT",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Towson",
+    "id": "TWST",
+    "conf": "CAA",
+    "subdivision": "FCS",
+    "full_conf": "Colonial Athletic Association",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 331.25,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Troy",
+    "id": "TROY",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 724.04,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Tulane",
+    "id": "TULANE",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 550,
+      "2019": 550,
+      "2021": 550,
+      "2022": 550
+    }
+  },
+  {
+    "name": "Air Force",
+    "id": "AF",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 500,
+      "2021": 500,
+      "2022": 724.39
+    }
+  },
+  {
+    "name": "Army",
+    "id": "ARMY",
+    "conf": "Independent",
+    "subdivision": "FBS",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 740.18,
+      "2021": 724.04,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Navy",
+    "id": "NAVY",
+    "conf": "Patriot League",
+    "subdivision": "FBS",
+    "full_conf": "Patriot League",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Akron",
+    "id": "AKRON",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Alabama",
+    "id": "BAMA",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 987.72,
+      "2019": 986.14,
+      "2021": 995.26,
+      "2022": 998.42
+    }
+  },
+  {
+    "name": "UAB",
+    "id": "UAB",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 724.21,
+      "2021": 724.04,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Arizona",
+    "id": "ARIZ",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 728.6,
+      "2019": 723.86,
+      "2021": 650,
+      "2022": 650
+    }
+  },
+  {
+    "name": "Arkansas",
+    "id": "ARK",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 784.74
+    }
+  },
+  {
+    "name": "Ark. - Pine Bluff",
+    "id": "ARPB",
+    "conf": "SWAC",
+    "subdivision": "FCS",
+    "full_conf": "Southwestern Athletic Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Cal",
+    "id": "CAL",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 650,
+      "2019": 650,
+      "2021": 650,
+      "2022": 650
+    }
+  },
+  {
+    "name": "UC Davis",
+    "id": "DAVIS",
+    "conf": "BWC",
+    "subdivision": "FCS",
+    "full_conf": "Big West Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 375.0,
+      "2021": 275.0,
+      "2022": 268.75
+    }
+  },
+  {
+    "name": "UCLA",
+    "id": "UCLA",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 650,
+      "2019": 650,
+      "2021": 724.04,
+      "2022": 724.04
+    }
+  },
+  {
+    "name": "Cen. Arkansas",
+    "id": "CAR",
+    "conf": "ASUN",
+    "subdivision": "FCS",
+    "full_conf": "ASUN Conference",
+    "starting_point_values": {
+      "2018": 312.5,
+      "2019": 250.0,
+      "2021": 325.0,
+      "2022": 150
+    }
+  },
+  {
+    "name": "UCF",
+    "id": "UCF",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 778.42,
+      "2019": 795.61,
+      "2021": 724.56,
+      "2022": 728.42
+    }
+  },
+  {
+    "name": "Cincinnati",
+    "id": "CINCY",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 550,
+      "2019": 726.49,
+      "2021": 901.58,
+      "2022": 770.18
+    }
+  },
+  {
+    "name": "Colorado",
+    "id": "COLO",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 650,
+      "2019": 650,
+      "2021": 650,
+      "2022": 650
+    }
+  },
+  {
+    "name": "UConn",
+    "id": "UCONN",
+    "conf": "Independent",
+    "subdivision": "FBS",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Dayton",
+    "id": "DAY",
+    "conf": "A-10",
+    "subdivision": "FCS",
+    "full_conf": "Atlantic 10 Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Delaware",
+    "id": "DE",
+    "conf": "CAA",
+    "subdivision": "FCS",
+    "full_conf": "Colonial Athletic Association",
+    "starting_point_values": {
+      "2018": 306.25,
+      "2019": 262.5,
+      "2021": 375.0,
+      "2022": 287.5
+    }
+  },
+  {
+    "name": "Florida",
+    "id": "FLA",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 735.61,
+      "2019": 908.6,
+      "2021": 851.4,
+      "2022": 726.14
+    }
+  },
+  {
+    "name": "Georgia",
+    "id": "UGA",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 960.53,
+      "2019": 969.82,
+      "2021": 962.98,
+      "2022": 978.95
+    }
+  },
+  {
+    "name": "Hawaii",
+    "id": "HAWAII",
+    "conf": "BWC",
+    "subdivision": "FBS",
+    "full_conf": "Big West Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Houston",
+    "id": "HOU",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 724.74,
+      "2019": 550,
+      "2021": 724.56,
+      "2022": 769.82
+    }
+  },
+  {
+    "name": "Idaho",
+    "id": "IDAHO",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Illinois",
+    "id": "ILL",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Iowa",
+    "id": "IOWA",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 724.04,
+      "2019": 781.58,
+      "2021": 813.68,
+      "2022": 752.28
+    }
+  },
+  {
+    "name": "Kansas",
+    "id": "KANSAS",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Kentucky",
+    "id": "UK",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 723.86,
+      "2019": 700,
+      "2021": 700,
+      "2022": 781.93
+    }
+  },
+  {
+    "name": "Louisiana",
+    "id": "UL",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "ULM",
+    "id": "LAMON",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Louisville",
+    "id": "LVILLE",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Maine",
+    "id": "ME",
+    "conf": "America East",
+    "subdivision": "FCS",
+    "full_conf": "America East Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 362.5,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Maryland",
+    "id": "MD",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "UMass",
+    "id": "UMASS",
+    "conf": "Independent",
+    "subdivision": "FBS",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Memphis",
+    "id": "MEMP",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 724.21,
+      "2019": 724.74,
+      "2021": 550,
+      "2022": 550
+    }
+  },
+  {
+    "name": "Miami",
+    "id": "MIAMI",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 903.86,
+      "2019": 735.96,
+      "2021": 840.0,
+      "2022": 807.19
+    }
+  },
+  {
+    "name": "Michigan",
+    "id": "MICH",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 859.3,
+      "2019": 927.89,
+      "2021": 725.79,
+      "2022": 934.74
+    }
+  },
+  {
+    "name": "Minnesota",
+    "id": "MINN",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 724.91,
+      "2021": 700,
+      "2022": 729.12
+    }
+  },
+  {
+    "name": "Ole Miss",
+    "id": "MISS",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 742.28,
+      "2022": 780.53
+    }
+  },
+  {
+    "name": "Missouri",
+    "id": "MIZZOU",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 744.21,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Montana",
+    "id": "MT",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 250.0,
+      "2019": 200,
+      "2021": 350.0,
+      "2022": 393.75
+    }
+  },
+  {
+    "name": "Nebraska",
+    "id": "NEB",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 750.7,
+      "2021": 700,
+      "2022": 723.86
+    }
+  },
+  {
+    "name": "UNLV",
+    "id": "UNLV",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 500,
+      "2021": 500,
+      "2022": 500
+    }
+  },
+  {
+    "name": "Nevada",
+    "id": "NEVADA",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 500,
+      "2021": 724.91,
+      "2022": 500
+    }
+  },
+  {
+    "name": "New Hampshire",
+    "id": "NH",
+    "conf": "America East",
+    "subdivision": "FCS",
+    "full_conf": "America East Conference",
+    "starting_point_values": {
+      "2018": 350.0,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "UNM",
+    "id": "NMEX",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 500,
+      "2021": 500,
+      "2022": 500
+    }
+  },
+  {
+    "name": "N Alabama",
+    "id": "NAL",
+    "conf": "ASUN",
+    "subdivision": "FCS",
+    "full_conf": "ASUN Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "North Carolina",
+    "id": "UNC",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 898.95,
+      "2022": 725.26
+    }
+  },
+  {
+    "name": "Charlotte",
+    "id": "CHARLO",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "North Dakota",
+    "id": "NDK",
+    "conf": "The Summit",
+    "subdivision": "FCS",
+    "full_conf": "The Summit League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 362.5,
+      "2022": 150
+    }
+  },
+  {
+    "name": "North Texas",
+    "id": "NTEXAS",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "N Colorado",
+    "id": "NCO",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "N Iowa",
+    "id": "NOIOWA",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 331.25,
+      "2019": 281.25,
+      "2021": 306.25,
+      "2022": 275.0
+    }
+  },
+  {
+    "name": "Notre Dame",
+    "id": "ND",
+    "conf": "Independent",
+    "subdivision": "FBS",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 864.74,
+      "2019": 906.84,
+      "2021": 900.7,
+      "2022": 941.58
+    }
+  },
+  {
+    "name": "Oklahoma",
+    "id": "OKLA",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 929.47,
+      "2019": 957.19,
+      "2021": 980.18,
+      "2022": 891.4
+    }
+  },
+  {
+    "name": "Oregon",
+    "id": "OREG",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 749.65,
+      "2019": 874.56,
+      "2021": 893.51,
+      "2022": 869.47
+    }
+  },
+  {
+    "name": "Penn",
+    "id": "PA",
+    "conf": "Ivy League",
+    "subdivision": "FCS",
+    "full_conf": "Ivy League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Pittsburgh",
+    "id": "PITT",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 790.88
+    }
+  },
+  {
+    "name": "Rhode Island",
+    "id": "RI",
+    "conf": "A-10",
+    "subdivision": "FCS",
+    "full_conf": "Atlantic 10 Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 256.25
+    }
+  },
+  {
+    "name": "Richmond",
+    "id": "RICH",
+    "conf": "A-10",
+    "subdivision": "FCS",
+    "full_conf": "Atlantic 10 Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 268.75,
+      "2022": 250.0
+    }
+  },
+  {
+    "name": "San Diego",
+    "id": "SDG",
+    "conf": "WCC",
+    "subdivision": "FCS",
+    "full_conf": "West Coast Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "S Alabama",
+    "id": "SALA",
+    "conf": "Sun Belt",
+    "subdivision": "FBS",
+    "full_conf": "Sun Belt Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "South Carolina",
+    "id": "SC",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 740.53,
+      "2019": 726.32,
+      "2021": 700,
+      "2022": 724.04
+    }
+  },
+  {
+    "name": "South Dakota",
+    "id": "SD",
+    "conf": "The Summit",
+    "subdivision": "FCS",
+    "full_conf": "The Summit League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "USF",
+    "id": "SFLA",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 550,
+      "2019": 550,
+      "2021": 550,
+      "2022": 550
+    }
+  },
+  {
+    "name": "USC",
+    "id": "USC",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 818.95,
+      "2019": 723.86,
+      "2021": 839.47,
+      "2022": 848.42
+    }
+  },
+  {
+    "name": "S Mississippi",
+    "id": "USM",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "St. Thomas",
+    "id": "STTHMN",
+    "conf": "The Summit",
+    "subdivision": "FCS",
+    "full_conf": "The Summit League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Tennessee",
+    "id": "TENN",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 755.26
+    }
+  },
+  {
+    "name": "Chattanooga",
+    "id": "TNCHAT",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 293.75,
+      "2022": 325.0
+    }
+  },
+  {
+    "name": "UT Martin",
+    "id": "TNMART",
+    "conf": "OVC",
+    "subdivision": "FCS",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 312.5
+    }
+  },
+  {
+    "name": "Texas",
+    "id": "TEXAS",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 761.58,
+      "2019": 900.0,
+      "2021": 785.09,
+      "2022": 752.46
+    }
+  },
+  {
+    "name": "UTEP",
+    "id": "UTEP",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "UTSA",
+    "id": "TXSA",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Incarnate Word",
+    "id": "UIW",
+    "conf": "Southland",
+    "subdivision": "FCS",
+    "full_conf": "Southland Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 318.75
+    }
+  },
+  {
+    "name": "Toledo",
+    "id": "TOLEDO",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "Tulsa",
+    "id": "TULSA",
+    "conf": "AAC",
+    "subdivision": "FBS",
+    "full_conf": "American Athletic Conference",
+    "starting_point_values": {
+      "2018": 550,
+      "2019": 550,
+      "2021": 550,
+      "2022": 550
+    }
+  },
+  {
+    "name": "Utah",
+    "id": "UTAH",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 734.21,
+      "2019": 859.12,
+      "2021": 754.56,
+      "2022": 935.79
+    }
+  },
+  {
+    "name": "Virginia",
+    "id": "UVA",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 731.4,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Washington",
+    "id": "WASH",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 936.84,
+      "2019": 861.58,
+      "2021": 802.46,
+      "2022": 650
+    }
+  },
+  {
+    "name": "Wisconsin",
+    "id": "WISC",
+    "conf": "Big Ten",
+    "subdivision": "FBS",
+    "full_conf": "Big Ten Conference",
+    "starting_point_values": {
+      "2018": 946.67,
+      "2019": 788.6,
+      "2021": 854.04,
+      "2022": 787.72
+    }
+  },
+  {
+    "name": "Wyoming",
+    "id": "WYO",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 500,
+      "2021": 500,
+      "2022": 500
+    }
+  },
+  {
+    "name": "Utah State",
+    "id": "UTAHST",
+    "conf": "MW",
+    "subdivision": "FBS",
+    "full_conf": "Mountain West Conference",
+    "starting_point_values": {
+      "2018": 500,
+      "2019": 725.09,
+      "2021": 500,
+      "2022": 724.04
+    }
+  },
+  {
+    "name": "Valparaiso",
+    "id": "VALPO",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Vanderbilt",
+    "id": "VANDY",
+    "conf": "SEC",
+    "subdivision": "FBS",
+    "full_conf": "Southeastern Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Villanova",
+    "id": "NOVA",
+    "conf": "Big East",
+    "subdivision": "FCS",
+    "full_conf": "Big East Conference",
+    "starting_point_values": {
+      "2018": 287.5,
+      "2019": 150,
+      "2021": 312.5,
+      "2022": 375.0
+    }
+  },
+  {
+    "name": "VMI",
+    "id": "VMI",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 287.5,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Virginia Tech",
+    "id": "VATECH",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 785.26,
+      "2019": 725.79,
+      "2021": 700,
+      "2022": 700
+    }
+  },
+  {
+    "name": "Wagner",
+    "id": "WAG",
+    "conf": "NEC",
+    "subdivision": "FCS",
+    "full_conf": "Northeast Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Wake Forest",
+    "id": "WAKE",
+    "conf": "ACC",
+    "subdivision": "FBS",
+    "full_conf": "Atlantic Coast Conference",
+    "starting_point_values": {
+      "2018": 700,
+      "2019": 700,
+      "2021": 700,
+      "2022": 776.84
+    }
+  },
+  {
+    "name": "Washington St.",
+    "id": "WASHST",
+    "conf": "Pac-12",
+    "subdivision": "FBS",
+    "full_conf": "Pacific-12 Conference",
+    "starting_point_values": {
+      "2018": 650,
+      "2019": 758.77,
+      "2021": 650,
+      "2022": 650
+    }
+  },
+  {
+    "name": "Weber State",
+    "id": "WBRST",
+    "conf": "BSC",
+    "subdivision": "FCS",
+    "full_conf": "Big Sky Conference",
+    "starting_point_values": {
+      "2018": 356.25,
+      "2019": 350.0,
+      "2021": 368.75,
+      "2022": 281.25
+    }
+  },
+  {
+    "name": "West Virginia",
+    "id": "WVU",
+    "conf": "Big 12",
+    "subdivision": "FBS",
+    "full_conf": "Big 12 Conference",
+    "starting_point_values": {
+      "2018": 813.33,
+      "2019": 724.21,
+      "2021": 724.21,
+      "2022": 700
+    }
+  },
+  {
+    "name": "W Carolina",
+    "id": "WCAR",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "W Illinois",
+    "id": "WIL",
+    "conf": "The Summit",
+    "subdivision": "FCS",
+    "full_conf": "The Summit League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "W Kentucky",
+    "id": "WKY",
+    "conf": "C-USA",
+    "subdivision": "FBS",
+    "full_conf": "Conference USA",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "W Michigan",
+    "id": "WMICH",
+    "conf": "MAC",
+    "subdivision": "FBS",
+    "full_conf": "Mid-American Conference",
+    "starting_point_values": {
+      "2018": 400,
+      "2019": 400,
+      "2021": 400,
+      "2022": 400
+    }
+  },
+  {
+    "name": "William & Mary",
+    "id": "WMMARY",
+    "conf": "CAA",
+    "subdivision": "FCS",
+    "full_conf": "Colonial Athletic Association",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Wofford",
+    "id": "WOFF",
+    "conf": "SoCon",
+    "subdivision": "FCS",
+    "full_conf": "Southern Conference",
+    "starting_point_values": {
+      "2018": 337.5,
+      "2019": 356.25,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Yale",
+    "id": "YALE",
+    "conf": "Ivy League",
+    "subdivision": "FCS",
+    "full_conf": "Ivy League",
+    "starting_point_values": {
+      "2018": 150,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Youngstown",
+    "id": "YST",
+    "conf": "Horizon",
+    "subdivision": "FCS",
+    "full_conf": "Horizon League",
+    "starting_point_values": {
+      "2018": 256.25,
+      "2019": 150,
+      "2021": 150,
+      "2022": 150
+    }
+  },
+  {
+    "name": "Kent. Chr.",
+    "id": "KYCH",
+    "conf": "MSC",
+    "subdivision": "NAIA",
+    "full_conf": "Mid-South",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "W Flordia",
+    "id": "WESTFL",
+    "conf": "GSC",
+    "subdivision": "Div II",
+    "full_conf": "Gulf South",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Savannah St.",
+    "id": "SAV",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Bowie St.",
+    "id": "BWST",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Chowan",
+    "id": "CHOWAN",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Quincy",
+    "id": "QUINCY",
+    "conf": "GLVC",
+    "subdivision": "Div II",
+    "full_conf": "Great Lakes Valley Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Shorter",
+    "id": "SHORT",
+    "conf": "GSC",
+    "subdivision": "Div II",
+    "full_conf": "Gulf South",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Western Colorado",
+    "id": "WESTST",
+    "conf": "RMAC",
+    "subdivision": "Div II",
+    "full_conf": "Rocky Mountain Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Jacksonville",
+    "id": "JAX",
+    "conf": "RMAC",
+    "subdivision": "Div II",
+    "full_conf": "Rocky Mountain Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Saint Augustine",
+    "id": "SAC",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Lock Haven",
+    "id": "LOCK",
+    "conf": "PSAC",
+    "subdivision": "Div II",
+    "full_conf": "Pennsylvania State Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "New Haven",
+    "id": "NHAVEN",
+    "conf": "NE-10",
+    "subdivision": "Div II",
+    "full_conf": "Northeast-10 Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Central Washington",
+    "id": "CWA",
+    "conf": "LSC",
+    "subdivision": "Div II",
+    "full_conf": "Lone Star Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "W New Mexico",
+    "id": "WNM",
+    "conf": "LSC",
+    "subdivision": "Div II",
+    "full_conf": "Lone Star Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Ft Valley St",
+    "id": "FTVALST",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Limestone College",
+    "id": "LIMESTNE",
+    "conf": "SAC",
+    "subdivision": "Div II",
+    "full_conf": "South Atlantic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Newberry College",
+    "id": "NEWB",
+    "conf": "SAC",
+    "subdivision": "Div II",
+    "full_conf": "South Atlantic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Shaw",
+    "id": "SHAW",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Tuskegee",
+    "id": "TUSK",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Virginia St.",
+    "id": "VAST",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Morehouse",
+    "id": "MOREHSE",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Brevard",
+    "id": "BRE",
+    "conf": "USA South",
+    "subdivision": "Div II",
+    "full_conf": "USA South Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Miles",
+    "id": "MILES",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Point University",
+    "id": "PNTU",
+    "conf": "App Ath Conf",
+    "subdivision": "NAIA",
+    "full_conf": "Appalachian Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "SW Baptist",
+    "id": "SWBAPT",
+    "conf": "GLVC",
+    "subdivision": "Div II",
+    "full_conf": "Great Lakes Valley Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Mars Hill",
+    "id": "MARS",
+    "conf": "SAC",
+    "subdivision": "Div II",
+    "full_conf": "South Atlantic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "St Xavier",
+    "id": "STXAVI",
+    "conf": "CCAC",
+    "subdivision": "NAIA",
+    "full_conf": "Chicagoland Collegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "UT Permian Basin",
+    "id": "UTPB",
+    "conf": "LSC",
+    "subdivision": "Div II",
+    "full_conf": "Lone Star Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "St Francis - (IL)",
+    "id": "STFRIL",
+    "conf": "CCAC",
+    "subdivision": "NAIA",
+    "full_conf": "Chicagoland Collegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Lincoln (MO)",
+    "id": "LINCMO",
+    "conf": "MIAA",
+    "subdivision": "Div II",
+    "full_conf": "Mid-America Intercollegiate Athletics Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Lincoln (PA)",
+    "id": "LINPA",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "VA - Lynchburg",
+    "id": "VUL",
+    "conf": "NCCAA",
+    "subdivision": "NAIA",
+    "full_conf": "National Christian College Athletic Association",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Mount Saint Joseph",
+    "id": "MTSTJ",
+    "conf": "HCAC",
+    "subdivision": "Div III",
+    "full_conf": "Heartland Collegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Waldort",
+    "id": "WLDORF",
+    "conf": "NSAA",
+    "subdivision": "NAIA",
+    "full_conf": "North Star Athletic Association",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Taylor",
+    "id": "TAY",
+    "conf": "Crossroads",
+    "subdivision": "NAIA",
+    "full_conf": "Crossroads League",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Louisiana College",
+    "id": "LACO",
+    "conf": "RRAC",
+    "subdivision": "NAIA",
+    "full_conf": "Red River Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Angelo St.",
+    "id": "ANGELO",
+    "conf": "LSC",
+    "subdivision": "Div II",
+    "full_conf": "Lone Star Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Cumberland",
+    "id": "CUMBTN",
+    "conf": "MSC",
+    "subdivision": "NAIA",
+    "full_conf": "Mid-South",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Guilford",
+    "id": "GUIL",
+    "conf": "ODAC",
+    "subdivision": "Div III",
+    "full_conf": "Old Dominion Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Missouri St.",
+    "id": "MORO",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "Missouri St.",
+    "id": "MORO",
+    "conf": "MVC",
+    "subdivision": "FCS",
+    "full_conf": "Missouri Valley Conference",
+    "starting_point_values": {
+      "2018": 200,
+      "2019": 200,
+      "2021": 200,
+      "2022": 200
+    }
+  },
+  {
+    "name": "College of Idaho",
+    "id": "COID",
+    "conf": "Frontier",
+    "subdivision": "NAIA",
+    "full_conf": "Frontier Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Langston",
+    "id": "LANGST",
+    "conf": "Sooner",
+    "subdivision": "NAIA",
+    "full_conf": "Sooner Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Truman St.",
+    "id": "TRUMST",
+    "conf": "GLVC",
+    "subdivision": "Div II",
+    "full_conf": "Great Lakes Valley Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Clark Atlanta",
+    "id": "CLRKATL",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Azusa Pacific",
+    "id": "AZUSAP",
+    "conf": "PacWest",
+    "subdivision": "NAIA",
+    "full_conf": "Pacific West Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Bluefield",
+    "id": "BLUE",
+    "conf": "App Ath Conf",
+    "subdivision": "NAIA",
+    "full_conf": "Appalachian Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Lindsey Wilson",
+    "id": "LINDSEY",
+    "conf": "MSC",
+    "subdivision": "NAIA",
+    "full_conf": "Mid-South",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "WV Wesleyan",
+    "id": "WVWES",
+    "conf": "MEC",
+    "subdivision": "Div II",
+    "full_conf": "Mountain East Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Lane",
+    "id": "LANE",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "OK Panhandle",
+    "id": "OKPNST",
+    "conf": "Sooner",
+    "subdivision": "Div II",
+    "full_conf": "Sooner Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "MS College",
+    "id": "MSCOLL",
+    "conf": "GSC",
+    "subdivision": "Div II",
+    "full_conf": "Gulf South",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Central State",
+    "id": "CSTATE",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "NY Maritime",
+    "id": "SUNYM",
+    "conf": "ECFC",
+    "subdivision": "Div III",
+    "full_conf": "Eastern Collegiate Football Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Tusculum",
+    "id": "TUSCUL",
+    "conf": "SAC",
+    "subdivision": "Div II",
+    "full_conf": "South Atlantic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Edwards Waters",
+    "id": "EDWWAT",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "North Greenville",
+    "id": "NGREEN",
+    "conf": "GSC",
+    "subdivision": "Div II",
+    "full_conf": "Gulf South",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "St. Andrews",
+    "id": "STAND",
+    "conf": "App Ath Conf",
+    "subdivision": "NAIA",
+    "full_conf": "Appalachian Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Union College",
+    "id": "UNIONC",
+    "conf": "App Ath Conf",
+    "subdivision": "NAIA",
+    "full_conf": "Appalachian Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Pikeville",
+    "id": "PIKE",
+    "conf": "MSC",
+    "subdivision": "NAIA",
+    "full_conf": "Mid-South",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Bethel (TN)",
+    "id": "BETHTN",
+    "conf": "MSC",
+    "subdivision": "NAIA",
+    "full_conf": "Mid-South",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Elizabeth City",
+    "id": "ELZST",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "S Oregon",
+    "id": "SOR",
+    "conf": "CCC",
+    "subdivision": "Div II",
+    "full_conf": "Cascade Collegiate Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Kentucky St.",
+    "id": "KYST",
+    "conf": "SIAC",
+    "subdivision": "Div II",
+    "full_conf": "Southern Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Walsh",
+    "id": "WALSH",
+    "conf": "G-MAC",
+    "subdivision": "Div II",
+    "full_conf": "Great Midwest Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Lindenwood",
+    "id": "LINDEN",
+    "conf": "OVC",
+    "subdivision": "Div II",
+    "full_conf": "Ohio Valley Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Simon Fraser",
+    "id": "SIMON",
+    "conf": "GNAC",
+    "subdivision": "Div II",
+    "full_conf": "Great Northwest Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Virginia Union",
+    "id": "VIRUNI",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Indiana Wesleyan",
+    "id": "IWU",
+    "conf": "MSFA",
+    "subdivision": "Div II",
+    "full_conf": "Mid-States Football Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "E Stroudsburg",
+    "id": "ESTROU",
+    "conf": "PSAC",
+    "subdivision": "Div II",
+    "full_conf": "Pennsylvania State Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Abilene Christian",
+    "id": "ACU",
+    "conf": "WAC",
+    "subdivision": "Div II",
+    "full_conf": "Western Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Midwestern St.",
+    "id": "MIDWST",
+    "conf": "LSC",
+    "subdivision": "Div II",
+    "full_conf": "Lone Star Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Texas Wesleyan",
+    "id": "TWU",
+    "conf": "Sooner",
+    "subdivision": "NAIA",
+    "full_conf": "Sooner Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Catholic University",
+    "id": "CATHOL",
+    "conf": "NEWMAC",
+    "subdivision": "Div III",
+    "full_conf": "New England Women's and Men's Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "VA - Wise",
+    "id": "VAWISE",
+    "conf": "SAC",
+    "subdivision": "Div II",
+    "full_conf": "South Atlantic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Mayville St.",
+    "id": "MAYST",
+    "conf": "NSAA",
+    "subdivision": "NAIA",
+    "full_conf": "North Star Athletic Association",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "West Virginia St.",
+    "id": "WVST",
+    "conf": "MEC",
+    "subdivision": "Div II",
+    "full_conf": "Mountain East Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "E Oregon",
+    "id": "EASTOR",
+    "conf": "Frontier",
+    "subdivision": "NAIA",
+    "full_conf": "Frontier Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "West New England",
+    "id": "WNE",
+    "conf": "CCF",
+    "subdivision": "Div III",
+    "full_conf": "Commonwealth Coast Football",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Ave Maria",
+    "id": "AVEMAR",
+    "conf": "The Sun",
+    "subdivision": "NAIA",
+    "full_conf": "The Sun Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "NC Wesleyan",
+    "id": "NCWU",
+    "conf": "USA South",
+    "subdivision": "Div III",
+    "full_conf": "USA South Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Charleston",
+    "id": "UCHARL",
+    "conf": "MEC",
+    "subdivision": "Div II",
+    "full_conf": "Mountain East Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Reinhardt",
+    "id": "REINHA",
+    "conf": "App Ath Conf",
+    "subdivision": "NAIA",
+    "full_conf": "Appalachian Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Franklin Pierce",
+    "id": "FRKLNPRC",
+    "conf": "NE-10",
+    "subdivision": "Div II",
+    "full_conf": "Northeast-10 Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "North American",
+    "id": "NTHAM",
+    "conf": "Independent",
+    "subdivision": "Div III",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "S Connecticut",
+    "id": "SOCTST",
+    "conf": "NE-10",
+    "subdivision": "Div II",
+    "full_conf": "Northeast-10 Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "St Anselm",
+    "id": "STALM",
+    "conf": "NE-10",
+    "subdivision": "Div II",
+    "full_conf": "Northeast-10 Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Warner",
+    "id": "WARNER",
+    "conf": "The Sun",
+    "subdivision": "Div III",
+    "full_conf": "The Sun Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Michigan Tech",
+    "id": "MITECH",
+    "conf": "GLIAC",
+    "subdivision": "Div II",
+    "full_conf": "Great Lakes Intercollegiate Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Univ Ft Lauderdale",
+    "id": "FTLAU",
+    "conf": "NCCAA",
+    "subdivision": "NAIA",
+    "full_conf": "National Christian College Athletic Association",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "DePauw",
+    "id": "DEPAUW",
+    "conf": "NCAC",
+    "subdivision": "Div III",
+    "full_conf": "North Coast Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Worchester",
+    "id": "WOR",
+    "conf": "NEWMAC",
+    "subdivision": "Div III",
+    "full_conf": "New England Women's and Men's Athletic Conference",
+    "starting_point_values": {
+      "2018": 0,
+      "2019": 0,
+      "2021": 0,
+      "2022": 0
+    }
+  },
+  {
+    "name": "Winston-Salem St.",
+    "id": "W-SAL",
+    "conf": "CIAA",
+    "subdivision": "Div II",
+    "full_conf": "Central Intercollegiate Athletic Association",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Delta St.",
+    "id": "DELTST",
+    "conf": "GSC",
+    "subdivision": "Div II",
+    "full_conf": "Gulf South",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "New Mexico Highlands",
+    "id": "NMHI",
+    "conf": "RMAC",
+    "subdivision": "Div II",
+    "full_conf": "Rocky Mountain Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Lincoln (CA)",
+    "id": "LINCA",
+    "conf": "Independent",
+    "subdivision": "Div II",
+    "full_conf": "Independent",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  },
+  {
+    "name": "Ft Lewis",
+    "id": "FTLEW",
+    "conf": "RMAC",
+    "subdivision": "Div II",
+    "full_conf": "Rocky Mountain Athletic Conference",
+    "starting_point_values": {
+      "2018": 50,
+      "2019": 50,
+      "2021": 50,
+      "2022": 50
+    }
+  }
+]

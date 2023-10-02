@@ -1,0 +1,2321 @@
+Abil Christian
+Abilene Christian University
+Abilene, Texas
+Mid South
+Western Athletic Conference
+NCAA FCS
+ABIL
+15
+
+Alabama A&M
+Alabama A&M University
+North Normal, Alabama
+South East
+Southwestern Athletic Conference
+NCAA FCS
+ALAM
+15
+
+Alabama St.
+Alabama State University
+Montgomery, Alabama
+South East
+Southwestern Athletic Conference
+NCAA FCS
+ALST
+15
+
+Alcorn State
+Alcorn State University
+Lorman, Mississippi
+Mid South
+Southwestern Athletic Conference
+NCAA FCS
+ALCORN
+15
+
+App. State
+Appalachian State University
+Boone, North Carolina
+Mid East
+Sun Belt Conference
+NCAA FBS
+APLST
+40
+
+Arizona St.
+Arizona State University
+Tempe, Arizona
+South West
+Pacific-12 Conference
+NCAA FBS
+ARIZST
+50
+
+Arkansas St.
+Arkansas State University
+Jonesboro, Arkansas
+Mid South
+Sun Belt Conference
+NCAA FBS
+ARKST
+40
+
+Auburn
+Auburn University
+Auburn, Alabama
+South East
+Southeastern Conference
+NCAA FBS
+AUBURN
+60
+
+Austin Peay
+Austin Peay State University
+Clarksville, Tennessee
+Mid East
+Ohio Valley Conference
+NCAA FCS
+AP
+15
+
+Ball St.
+Ball State University
+Muncie, Indiana
+Great Lakes
+Mid-American Conference
+NCAA FBS
+BALLST
+40
+
+Baylor
+Baylor University
+Waco, Texas
+Mid South
+Big 12 Conference
+NCAA FBS
+BAYLOR
+77.21
+
+Bethune-Cookman
+Bethune-Cookman University
+Daytona Beach, Florida
+South East
+Southwestern Athletic Conference
+NCAA FCS
+BTHN
+15
+
+Boise St.
+Boise State University
+Boise, Idaho
+North West
+Mountain West Conference
+NCAA FBS
+BOISE
+40
+
+Boston College
+Boston College
+Chestnut Hill, Massachusetts
+New England
+Atlantic Coast Conference
+NCAA FBS
+BC
+55
+
+Bowling Green
+Bowling Green State University
+Bowling Green, Ohio
+Great Lakes
+Mid-American Conference
+NCAA FBS
+BGREEN
+40
+
+BYU
+Brigham Young University
+Provo, Utah
+South West
+Independent
+NCAA FBS
+BYU
+65.61
+
+Brown Univ.
+Brown University
+Providence, Rhode Island
+New England
+Ivy League
+NCAA FCS
+BROWN
+15
+
+Bryant
+Bryant University
+Smithfield, Rhode Island
+New England
+Northeast Conference
+NCAA FCS
+BRY
+15
+
+Bucknell
+Bucknell University
+Lewisburg, Pennsylvania
+North East
+Patriot League
+NCAA FCS
+BUCK
+15
+
+Butler
+Butler University
+Indianapolis, Indiana
+Great Lakes
+Big East Conference
+NCAA FCS
+BUT
+15
+
+Cal Poly
+California Polytechnic State University – San Luis Obispo
+San Luis Obispo, California
+West Coast
+Big West Conference
+NCAA FCS
+CPOLY
+15
+
+Fresno St.
+California State University – Fresno
+Fresno, California
+West Coast
+Mountain West Conference
+NCAA FBS
+FRESNO
+40
+
+Sacramento St.
+California State University – Sacramento
+Sacramento, California
+West Coast
+Big Sky Conference
+NCAA FCS
+SACST
+33.88
+
+Campbell
+Campbell University
+Buies Creek, North Carolina
+Mid East
+Big South Conference
+NCAA FCS
+CAMP
+15
+
+Cent. Conn.
+Central Connecticut State University
+New Britain, Connecticut
+New England
+Northeast Conference
+NCAA FCS
+CENCONN
+15
+
+Central Michigan
+Central Michigan University
+Mount Pleasant, Michigan
+Great Lakes
+Mid-American Conference
+NCAA FBS
+CMICH
+40
+
+Charleston So.
+Charleston Southern University
+Charleston, South Carolina
+South East
+Big South Conference
+NCAA FCS
+CHARSO
+15
+
+Clemson
+Clemson University
+Clemson, South Carolina
+South East
+Atlantic Coast Conference
+NCAA FBS
+CLEM
+84.50
+
+Coastal Car.
+Coastal Carolina University
+Conway, South Carolina
+South East
+Sun Belt Conference
+NCAA FBS
+CSTCAR
+40
+
+Colgate
+Colgate University
+Hamilton, New York
+North East
+Patriot League
+NCAA FCS
+COLG
+15
+
+Holy Cross
+College of the Holy Cross
+Worcester, Massachusetts
+New England
+Patriot League
+NCAA FCS
+HOLY
+24.39
+
+Colo St.
+Colorado State University
+Fort Collins, Colorado
+South West
+Mountain West Conference
+NCAA FBS
+COLOST
+40
+
+Columbia
+Columbia University
+New York, New York
+North East
+Ivy League
+NCAA FCS
+CLMB
+15
+
+Cornell
+Cornell University
+Ithaca, New York
+North East
+Ivy League
+NCAA FCS
+CORN
+15
+
+Dartmouth
+Dartmouth College
+Hanover, New Hampshire
+New England
+Ivy League
+NCAA FCS
+DART
+15
+
+Davidson
+Davidson College
+Davidson, North Carolina
+Mid East
+Atlantic 10 Conference
+NCAA FCS
+DAVID
+15
+
+Delaware St.
+Delaware State University
+Dover, Delaware
+North East
+Mid-Eastern Athletic Conference
+NCAA FCS
+DEST
+15
+
+Utah Tech
+Utah Tech University
+Saint George, Utah
+South West
+Western Athletic Conference
+NCAA FCS
+UTTCH
+15
+
+Drake
+Drake University
+Des Moines, Iowa
+Mid West
+Missouri Valley Conference
+NCAA FCS
+DRA
+15
+
+Duke
+Duke University
+Durham, North Carolina
+Mid East
+Atlantic Coast Conference
+NCAA FBS
+DUKE
+55
+
+Duquesne
+Duquesne University
+Pittsburgh, Pennsylvania
+North East
+Atlantic 10 Conference
+NCAA FCS
+DUQ
+15
+
+E. Carolina
+East Carolina University
+Greenville, North Carolina
+Mid East
+American Athletic Conference
+NCAA FBS
+ECU
+40
+
+E. Tenn.
+East Tennessee State University
+Johnson City, Tennessee
+Mid East
+Southern Conference
+NCAA FCS
+ETNST
+30.33
+
+E. Illinois
+Eastern Illinois University
+Charleston, Illinois
+Great Lakes
+Ohio Valley Conference
+NCAA FCS
+EIL
+15
+
+E. Kentucky
+Eastern Kentucky University
+Richmond, Kentucky
+Mid East
+ASUN Conference
+NCAA FCS
+EKY
+15
+
+E. Michigan
+Eastern Michigan University
+Ypsilanti, Michigan
+Great Lakes
+Mid-American Conference
+NCAA FBS
+EMICH
+40
+
+E. Washington
+Eastern Washington University
+Cheney, Washington
+West Coast
+Big Sky Conference
+NCAA FCS
+EWASH
+29.81
+
+Elon
+Elon University
+Elon, North Carolina
+Mid East
+Colonial Athletic Association
+NCAA FCS
+ELON
+15
+
+Florida A&M
+Florida A&M University
+Tallahassee, Florida
+South East
+Southwestern Athletic Conference
+NCAA FCS
+FAMU
+15
+
+FAU
+Florida Atlantic University
+Boca Raton, Florida
+South East
+Conference USA
+NCAA FBS
+FAU
+40
+
+FIU
+Florida International University
+Miami, Florida
+South East
+Conference USA
+NCAA FBS
+FIU
+40
+
+Florida St.
+Florida State University
+Tallahassee, Florida
+South East
+Atlantic Coast Conference
+NCAA FBS
+FSU
+55
+
+Fordham
+Fordham University
+Bronx, New York
+North East
+Atlantic 10 Conference
+NCAA FCS
+FORD
+15
+
+Furman
+Furman University
+Greenville, South Carolina
+South East
+Southern Conference
+NCAA FCS
+FUR
+15
+
+Gardner-Webb
+Gardner-Webb University
+Boiling Springs, North Carolina
+Mid East
+Big South Conference
+NCAA FCS
+GRDWB
+15
+
+Georgetown
+Georgetown University
+Washington, District Of Columbia
+North East
+Big East Conference
+NCAA FCS
+GTOWN
+15
+
+Ga. Southern
+Georgia Southern University
+Statesboro, Georgia
+South East
+Sun Belt Conference
+NCAA FBS
+GAS
+40
+
+Georgia St.
+Georgia State University
+Atlanta, Georgia
+South East
+Sun Belt Conference
+NCAA FBS
+GAST
+40
+
+Georgia Tech
+Georgia Tech
+Atlanta, Georgia
+South East
+Atlantic Coast Conference
+NCAA FBS
+GATECH
+55
+
+Grambling St.
+Grambling State University
+Grambling, Louisiana
+Mid South
+Southwestern Athletic Conference
+NCAA FCS
+GRAM
+15
+
+Hampton
+Hampton University
+Hampton, Virginia
+Mid East
+Big South Conference
+NCAA FCS
+HAMP
+15
+
+Harvard
+Harvard University
+Cambridge, Massachusetts
+New England
+Ivy League
+NCAA FCS
+HARV
+15
+
+Houston Baptist
+Houston Baptist University
+Houston, Texas
+Mid South
+Southland Conference
+NCAA FCS
+HOUBP
+15
+
+Howard
+Howard University
+Washington, District Of Columbia
+North East
+Mid-Eastern Athletic Conference
+NCAA FCS
+HOW
+15
+
+Idaho St.
+Idaho State University
+Pocatello, Idaho
+North West
+Big Sky Conference
+NCAA FCS
+IDST
+15
+
+Illinois St.
+Illinois State University
+Normal, Illinois
+Great Lakes
+Missouri Valley Conference
+NCAA FCS
+ILST
+15
+
+Indiana St.
+Indiana State University
+Terre Haute, Indiana
+Great Lakes
+Missouri Valley Conference
+NCAA FCS
+INST
+15
+
+Indiana
+Indiana University
+Bloomington, Indiana
+Great Lakes
+Big Ten Conference
+NCAA FBS
+IND
+60
+
+Iowa St.
+Iowa State University
+Ames, Iowa
+Mid West
+Big 12 Conference
+NCAA FBS
+IOWAST
+60
+
+Jackson St.
+Jackson State University
+Jackson, Mississippi
+Mid South
+Southwestern Athletic Conference
+NCAA FCS
+JACKST
+26.55
+
+Jacksonville St.
+Jacksonville State University
+Jacksonville, Alabama
+South East
+ASUN Conference
+NCAA FCS
+JAXST
+15
+
+James Madison
+James Madison University
+Harrisonburg, Virginia
+Mid East
+Colonial Athletic Association
+NCAA FCS
+JMAD
+15
+
+Kansas St.
+Kansas State University
+Manhattan, Kansas
+Mid West
+Big 12 Conference
+NCAA FBS
+KSTATE
+60
+
+Kennesaw St.
+Kennesaw State University
+Kennesaw, Georgia
+South East
+ASUN Conference
+NCAA FCS
+KENSAW
+33.91
+
+Kent St.
+Kent State University
+Kent, Ohio
+Great Lakes
+Mid-American Conference
+NCAA FBS
+KENTST
+40
+
+Lafayette
+Lafayette College
+Easton, Pennsylvania
+North East
+Patriot League
+NCAA FCS
+LAF
+15
+
+Lamar
+Lamar University
+Beaumont, Texas
+Mid South
+Western Athletic Conference
+NCAA FCS
+LAMAR
+15
+
+Lehigh
+Lehigh University
+Bethlehem, Pennsylvania
+North East
+Patriot League
+NCAA FCS
+LEH
+15
+
+Liberty
+Liberty University
+Lynchburg, Virginia
+Mid East
+Independent
+NCAA FBS
+LIB
+40
+
+Long Island
+Long Island University
+Brooklyn, New York
+North East
+Northeast Conference
+NCAA FCS
+LIUPOST
+15
+
+LSU
+Louisiana State University (LSU)
+Baton Rouge, Louisiana
+Mid South
+Southeastern Conference
+NCAA FBS
+LSU
+60
+
+Louisiana Tech
+Louisiana Tech University
+Ruston, Louisiana
+Mid South
+Conference USA
+NCAA FBS
+LATECH
+40
+
+Marist
+Marist College
+Poughkeepsie, New York
+North East
+Metro Atlantic Athletic Conference
+NCAA FCS
+MARIST
+15
+
+Marshall
+Marshall University
+Huntington, West Virginia
+Mid East
+Conference USA
+NCAA FBS
+MRSHL
+40
+
+McNeese St.
+McNeese State University
+Lake Charles, Louisiana
+Mid South
+Southland Conference
+NCAA FCS
+MCN
+15
+
+Mercer
+Mercer University
+Macon, Georgia
+South East
+Southern Conference
+NCAA FCS
+MERCER
+20.64
+
+Merrimack
+Merrimack College
+North Andover, Massachusetts
+New England
+Northeast-10 Conference
+NCAA FCS
+MERMAK
+15
+
+Miami
+Miami University
+Oxford, Ohio
+Great Lakes
+Mid-American Conference
+NCAA FBS
+MIAOH
+40
+
+Michigan St.
+Michigan State University
+East Lansing, Michigan
+Great Lakes
+Big Ten Conference
+NCAA FBS
+MICHST
+72.70
+
+Middle Tenn.
+Middle Tennessee State University
+Murfreesboro, Tennessee
+Mid East
+Conference USA
+NCAA FBS
+MTSU
+40
+
+Mississippi St.
+Mississippi State University
+Mississippi State, Mississippi
+Mid South
+Southeastern Conference
+NCAA FBS
+MISSST
+60
+
+Miss. Valley
+Mississippi Valley State University
+Itta Bena, Mississippi
+Mid South
+Southwestern Athletic Conference
+NCAA FCS
+MSVALST
+15
+
+Missouri St.
+Missouri State University
+Springfield, Missouri
+Mid West
+Missouri Valley Conference
+NCAA FCS
+MOST
+32.21
+
+Monmouth
+Monmouth University
+West Long Branch, New Jersey
+North East
+Metro Atlantic Athletic Conference
+NCAA FCS
+MONNJ
+15
+
+Montana St.
+Montana State University
+Bozeman, Montana
+North West
+Big Sky Conference
+NCAA FCS
+MTST
+37.67
+
+Morehead St.
+Morehead State University
+Morehead, Kentucky
+Mid East
+Ohio Valley Conference
+NCAA FCS
+MOREHDST
+15
+
+Morgan St.
+Morgan State University
+Baltimore, Maryland
+North East
+Mid-Eastern Athletic Conference
+NCAA FCS
+MRGNST
+15
+
+Murray St.
+Murray State University
+Murray, Kentucky
+Mid East
+Ohio Valley Conference
+NCAA FCS
+MURYST
+15
+
+NMSU
+New Mexico State University
+Las Cruces, New Mexico
+South West
+Independent
+NCAA FBS
+NMEXST
+15
+
+Nicholls St.
+Nicholls State University
+Thibodaux, Louisiana
+Mid South
+Southland Conference
+NCAA FCS
+NICHST
+15
+
+Norfolk St.
+Norfolk State University
+Norfolk, Virginia
+Mid East
+Mid-Eastern Athletic Conference
+NCAA FCS
+NRFST
+15
+
+NC A&T
+North Carolina A&T State University
+Greensboro, North Carolina
+Mid East
+Big South Conference
+NCAA FCS
+NCAT
+15
+
+NC Central
+North Carolina Central University
+Durham, North Carolina
+Mid East
+Mid-Eastern Athletic Conference
+NCAA FCS
+NCCEN
+15
+
+NC State
+North Carolina State University
+Raleigh, North Carolina
+Mid East
+Atlantic Coast Conference
+NCAA FBS
+NCST
+74.86
+
+ND State
+North Dakota State University
+Fargo, North Dakota
+North West
+The Summit League
+NCAA FCS
+NDST
+39.96
+
+NAU
+Northern Arizona University
+Flagstaff, Arizona
+South West
+Big Sky Conference
+NCAA FCS
+NAZ
+15
+
+N. Illinois
+Northern Illinois University
+DeKalb, Illinois
+Great Lakes
+Mid-American Conference
+NCAA FBS
+NILL
+40
+
+Northwestern St.
+Northwestern State University of Louisiana
+Natchitoches, Louisiana
+Mid South
+Southland Conference
+NCAA FCS
+NWST
+15
+
+Northwestern
+Northwestern University
+Evanston, Illinois
+Great Lakes
+Big Ten Conference
+NCAA FBS
+NWEST
+60
+
+Ohio State
+Ohio State University
+Columbus, Ohio
+Great Lakes
+Big Ten Conference
+NCAA FBS
+OHIOST
+88.32
+
+Ohio
+Ohio University
+Athens, Ohio
+Great Lakes
+Mid-American Conference
+NCAA FBS
+OHIO
+40
+
+Oklahoma St.
+Oklahoma State University
+Stillwater, Oklahoma
+Mid South
+Big 12 Conference
+NCAA FBS
+OKLAST
+75.96
+
+Old Dominion
+Old Dominion University
+Norfolk, Virginia
+Mid East
+Conference USA
+NCAA FBS
+ODU
+40
+
+Oregon St.
+Oregon State University
+Corvallis, Oregon
+West Coast
+Pacific-12 Conference
+NCAA FBS
+OREGST
+50
+
+Penn State
+Penn State
+University Park, Pennsylvania
+North East
+Big Ten Conference
+NCAA FBS
+PSU
+60
+
+Portland St.
+Portland State University
+Portland, Oregon
+West Coast
+Big Sky Conference
+NCAA FCS
+PORTST
+15
+
+Prairie View
+Prairie View A & M University
+Prairie View, Texas
+Mid South
+Southwestern Athletic Conference
+NCAA FCS
+PRARIE
+15
+
+Presbyterian
+Presbyterian College
+Clinton, South Carolina
+South East
+Big South Conference
+NCAA FCS
+PRESBY
+15
+
+Princeton
+Princeton University
+Princeton, New Jersey
+North East
+Ivy League
+NCAA FCS
+PRINCE
+15
+
+Purdue
+Purdue University
+West Lafayette, Indiana
+Great Lakes
+Big Ten Conference
+NCAA FBS
+PURDUE
+60
+
+Rice
+Rice University
+Houston, Texas
+Mid South
+Conference USA
+NCAA FBS
+RICE
+40
+
+Robert Morris
+Robert Morris University – Pennsylvania
+Moon Township, Pennsylvania
+North East
+Horizon League
+NCAA FCS
+ROB
+15
+
+Rutgers
+Rutgers University
+Piscataway, New Jersey
+North East
+Big Ten Conference
+NCAA FBS
+RUT
+60
+
+Sacred Heart
+Sacred Heart University
+Fairfield, Connecticut
+New England
+Metro Atlantic Athletic Conference
+NCAA FCS
+SACHRT
+15
+
+St. Francis
+Saint Francis University
+Loretto, Pennsylvania
+North East
+Northeast Conference
+NCAA FCS
+STFRPA
+15
+
+Sam Houston
+Sam Houston State University
+Huntsville, Texas
+Mid South
+Western Athletic Conference
+NCAA FCS
+SAMST
+15
+
+Samford
+Samford University
+Birmingham, Alabama
+South East
+Southern Conference
+NCAA FCS
+SAMF
+15
+
+San Diego St.
+San Diego State University
+San Diego, California
+West Coast
+Mountain West Conference
+NCAA FBS
+SDGST
+40
+
+San Jose St.
+San Jose State University
+San Jose, California
+West Coast
+Mountain West Conference
+NCAA FBS
+SJST
+40
+
+SC State
+South Carolina State University
+Orangeburg, South Carolina
+South East
+Mid-Eastern Athletic Conference
+NCAA FCS
+SCST
+15
+
+SD State
+South Dakota State University
+Brookings, South Dakota
+North West
+The Summit League
+NCAA FCS
+SDST
+37.91
+
+SE Missouri
+Southeast Missouri State University
+Cape Girardeau, Missouri
+Mid West
+Ohio Valley Conference
+NCAA FCS
+SEMOST
+15
+
+SE Louisiana
+Southeastern Louisiana University
+Hammond, Louisiana
+Mid South
+Southland Conference
+NCAA FCS
+SELOU
+26.87
+
+S Illinois
+Southern Illinois University Carbondale
+Carbondale, Illinois
+Great Lakes
+Missouri Valley Conference
+NCAA FCS
+SIL
+31.29
+
+SMU
+Southern Methodist University – SMU
+Dallas, Texas
+Mid South
+American Athletic Conference
+NCAA FBS
+SMU
+40
+
+Southern Univ.
+Southern University & A&M College
+Baton Rouge, Louisiana
+Mid South
+Southwestern Athletic Conference
+NCAA FCS
+SO
+15
+
+S. Utah
+Southern Utah University
+Cedar City, Utah
+South West
+Big Sky Conference
+NCAA FCS
+SUT
+15
+
+Stanford
+Stanford University
+Stanford, California
+West Coast
+Pacific-12 Conference
+NCAA FBS
+STNFRD
+50
+
+Stephen F Austin
+Stephen F Austin State University
+Nacogdoches, Texas
+Mid South
+Western Athletic Conference
+NCAA FCS
+SFA
+30.69
+
+Stetson
+Stetson University
+DeLand, Florida
+South East
+ASUN Conference
+NCAA FCS
+STETSON
+15
+
+Stony Brook
+SUNY Stony Brook University
+Stony Brook, New York
+North East
+America East Conference
+NCAA FCS
+STONYBRK
+15
+
+Albany
+SUNY University at Albany
+Albany, New York
+North East
+America East Conference
+NCAA FCS
+ALBANY
+15
+
+Buffalo
+SUNY University at Buffalo
+Buffalo, New York
+North East
+Mid-American Conference
+NCAA FBS
+BUFF
+40
+
+Syracuse
+Syracuse University
+Syracuse, New York
+North East
+Atlantic Coast Conference
+NCAA FBS
+CUSE
+55
+
+Tarleton
+Tarleton State University
+Stephenville, Texas
+Mid South
+Western Athletic Conference
+NCAA FCS
+TRLST
+15
+
+Temple
+Temple University
+Philadelphia, Pennsylvania
+North East
+American Athletic Conference
+NCAA FBS
+TEMPLE
+40
+
+Tennessee St.
+Tennessee State University
+Nashville, Tennessee
+Mid East
+Ohio Valley Conference
+NCAA FCS
+TNST
+15
+
+Tennessee Tech.
+Tennessee Technological University
+Cookeville, Tennessee
+Mid East
+Ohio Valley Conference
+NCAA FCS
+TNTECH
+15
+
+Texas A&M
+Texas A&M University
+College Station, Texas
+Mid South
+Southeastern Conference
+NCAA FBS
+TXAM
+83.07
+
+TCU
+Texas Christian University
+Fort Worth, Texas
+Mid South
+Big 12 Conference
+NCAA FBS
+TCU
+60
+
+Texas So.
+Texas Southern University
+Houston, Texas
+Mid South
+Southwestern Athletic Conference
+NCAA FCS
+TXSO
+15
+
+Texas St.
+Texas State University
+San Marcos, Texas
+Mid South
+Sun Belt Conference
+NCAA FBS
+TXSTSM
+40
+
+Texas Tech
+Texas Tech University
+Lubbock, Texas
+Mid South
+Big 12 Conference
+NCAA FBS
+TXTECH
+60
+
+Citadel
+The Citadel
+Charleston, South Carolina
+South East
+Southern Conference
+NCAA FCS
+CIT
+15
+
+Towson
+Towson University
+Towson, Maryland
+North East
+Colonial Athletic Association
+NCAA FCS
+TWST
+15
+
+Troy
+Troy University
+Troy, Alabama
+South East
+Sun Belt Conference
+NCAA FBS
+TROY
+40
+
+Tulane
+Tulane University
+New Orleans, Louisiana
+Mid South
+American Athletic Conference
+NCAA FBS
+TULANE
+40
+
+Air Force
+United States Air Force Academy
+USAFA, Colorado
+South West
+Mountain West Conference
+NCAA FBS
+AF
+40
+
+Army
+United States Military Academy
+West Point, New York
+North East
+Independent
+NCAA FBS
+ARMY
+15
+
+Navy
+United States Naval Academy
+Annapolis, Maryland
+North East
+Patriot League
+NCAA FBS
+NAVY
+15
+
+Akron
+University of Akron
+Akron, Ohio
+Great Lakes
+Mid-American Conference
+NCAA FBS
+AKRON
+40
+
+Alabama
+University of Alabama
+Tuscaloosa, Alabama
+South East
+Southeastern Conference
+NCAA FBS
+BAMA
+89.39
+
+UAB
+University of Alabama – Birmingham
+Birmingham, Alabama
+South East
+Conference USA
+NCAA FBS
+UAB
+40
+
+Arizona
+University of Arizona
+Tucson, Arizona
+South West
+Pacific-12 Conference
+NCAA FBS
+ARIZ
+50
+
+Arkansas
+University of Arkansas
+Fayetteville, Arkansas
+Mid South
+Southeastern Conference
+NCAA FBS
+ARK
+67.64
+
+Ark. - Pine Bluff
+University of Arkansas at Pine Bluff
+Pine Bluff, Arkansas
+Mid South
+Southwestern Athletic Conference
+NCAA FCS
+ARPB
+15
+
+Cal
+University of California – Berkeley
+Berkeley, California
+West Coast
+Pacific-12 Conference
+NCAA FBS
+CAL
+50
+
+UC Davis
+University of California – Davis
+Davis, California
+West Coast
+Big West Conference
+NCAA FCS
+DAVIS
+21.45
+
+UCLA
+University of California – Los Angeles – UCLA
+Los Angeles, California
+West Coast
+Pacific-12 Conference
+NCAA FBS
+UCLA
+50
+
+Cen. Arkansas
+University of Central Arkansas
+Conway, Arkansas
+Mid South
+ASUN Conference
+NCAA FCS
+CAR
+15
+
+UCF
+University of Central Florida
+Orlando, Florida
+South East
+American Athletic Conference
+NCAA FBS
+UCF
+40
+
+Cincinnati
+University of Cincinnati
+Cincinnati, Ohio
+Great Lakes
+American Athletic Conference
+NCAA FBS
+CINCY
+66.16
+
+Colorado
+University of Colorado – Boulder
+Boulder, Colorado
+South West
+Pacific-12 Conference
+NCAA FBS
+COLO
+50
+
+UConn
+University of Connecticut
+Storrs, Connecticut
+New England
+Independent
+NCAA FBS
+UCONN
+40
+
+Dayton
+University of Dayton
+Dayton, Ohio
+Great Lakes
+Atlantic 10 Conference
+NCAA FCS
+DAY
+15
+
+Delaware
+University of Delaware
+Newark, Delaware
+North East
+Colonial Athletic Association
+NCAA FCS
+DE
+23.96
+
+Florida
+University of Florida
+Gainesville, Florida
+South East
+Southeastern Conference
+NCAA FBS
+FLA
+60
+
+Georgia
+University of Georgia
+Athens, Georgia
+South East
+Southeastern Conference
+NCAA FBS
+UGA
+87.41
+
+Hawaii
+University of Hawaii at Manoa
+Honolulu, Hawaii
+West Coast
+Big West Conference
+NCAA FBS
+HAWAII
+40
+
+Houston
+University of Houston
+Houston, Texas
+Mid South
+American Athletic Conference
+NCAA FBS
+HOU
+66.13
+
+Idaho
+University of Idaho
+Moscow, Idaho
+North West
+Big Sky Conference
+NCAA FCS
+IDAHO
+15
+
+Illinois
+University of Illinois
+Champaign, Illinois
+Great Lakes
+Big Ten Conference
+NCAA FBS
+ILL
+60
+
+Iowa
+University of Iowa
+Iowa City, Iowa
+Mid West
+Big Ten Conference
+NCAA FBS
+IOWA
+60
+
+Kansas
+University of Kansas
+Lawrence, Kansas
+Mid West
+Big 12 Conference
+NCAA FBS
+KANSAS
+60
+
+Kentucky
+University of Kentucky
+Lexington, Kentucky
+Mid East
+Southeastern Conference
+NCAA FBS
+UK
+67.36
+
+Louisiana
+University of Louisiana
+Lafayette, Louisiana
+Mid South
+Sun Belt Conference
+NCAA FBS
+UL
+40
+
+ULM
+University of Louisiana – Monroe
+Monroe, Louisiana
+Mid South
+Sun Belt Conference
+NCAA FBS
+LAMON
+40
+
+Louisville
+University of Louisville
+Louisville, Kentucky
+Mid East
+Atlantic Coast Conference
+NCAA FBS
+LVILLE
+55
+
+Maine
+University of Maine
+Orono, Maine
+New England
+America East Conference
+NCAA FCS
+ME
+15
+
+Maryland
+University of Maryland
+College Park, Maryland
+North East
+Big Ten Conference
+NCAA FBS
+MD
+60
+
+UMass
+University of Massachusetts – Amherst
+Amherst, Massachusetts
+New England
+Independent
+NCAA FBS
+UMASS
+15
+
+Memphis
+University of Memphis
+Memphis, Tennessee
+Mid East
+American Athletic Conference
+NCAA FBS
+MEMP
+40
+
+Miami
+University of Miami
+Coral Gables, Florida
+South East
+Atlantic Coast Conference
+NCAA FBS
+MIAMI
+69.93
+
+Michigan
+University of Michigan
+Ann Arbor, Michigan
+Great Lakes
+Big Ten Conference
+NCAA FBS
+MICH
+82.91
+
+Minnesota
+University of Minnesota
+Minneapolis, Minnesota
+Mid West
+Big Ten Conference
+NCAA FBS
+MINN
+60
+
+Ole Miss
+University of Mississippi
+University, Mississippi
+Mid South
+Southeastern Conference
+NCAA FBS
+MISS
+67.21
+
+Missouri
+University of Missouri
+Columbia, Missouri
+Mid West
+Southeastern Conference
+NCAA FBS
+MIZZOU
+60
+
+Montana
+University of Montana
+Missoula, Montana
+North West
+Big Sky Conference
+NCAA FCS
+MT
+37.95
+
+Nebraska
+University of Nebraska
+Lincoln, Nebraska
+Mid West
+Big Ten Conference
+NCAA FBS
+NEB
+60
+
+UNLV
+University of Nevada – Las Vegas
+Las Vegas, Nevada
+South West
+Mountain West Conference
+NCAA FBS
+UNLV
+40
+
+Nevada - Reno
+University of Nevada – Reno
+Reno, Nevada
+South West
+Mountain West Conference
+NCAA FBS
+RENO
+40
+
+New Hampshire
+University of New Hampshire
+Durham, New Hampshire
+New England
+America East Conference
+NCAA FCS
+NH
+15
+
+UNM
+University of New Mexico
+Albuquerque, New Mexico
+South West
+Mountain West Conference
+NCAA FBS
+NMEX
+40
+
+N Alabama
+University of North Alabama
+Florence, Alabama
+South East
+ASUN Conference
+NCAA FCS
+NAL
+15
+
+UNC
+University of North Carolina at Chapel Hill
+Chapel Hill, North Carolina
+Mid East
+Atlantic Coast Conference
+NCAA FBS
+UNC
+55
+
+Charlotte
+University of North Carolina at Charlotte
+Charlotte, North Carolina
+Mid East
+Conference USA
+NCAA FBS
+CHARLO
+40
+
+North Dakota
+University of North Dakota
+Grand Forks, North Dakota
+North West
+The Summit League
+NCAA FCS
+NDK
+15
+
+North Texas
+University of North Texas
+Denton, Texas
+Mid South
+Conference USA
+NCAA FBS
+NTEXAS
+40
+
+N Colorado
+University of Northern Colorado
+Greeley, Colorado
+South West
+Big Sky Conference
+NCAA FCS
+NCO
+15
+
+N Iowa
+University of Northern Iowa
+Cedar Falls, Iowa
+Mid West
+Missouri Valley Conference
+NCAA FCS
+NOIOWA
+22.09
+
+Notre Dame
+University of Notre Dame
+Notre Dame, Indiana
+Great Lakes
+Independent
+NCAA FBS
+ND
+83.61
+
+Oklahoma
+University of Oklahoma
+Norman, Oklahoma
+Mid South
+Big 12 Conference
+NCAA FBS
+OKLA
+78.50
+
+Oregon
+University of Oregon
+Eugene, Oregon
+West Coast
+Pacific-12 Conference
+NCAA FBS
+OREG
+76.27
+
+Penn
+University of Pennsylvania – Penn
+Philadelphia, Pennsylvania
+North East
+Ivy League
+NCAA FCS
+PA
+15
+
+Pittsburgh
+University of Pittsburgh
+Pittsburgh, Pennsylvania
+North East
+Atlantic Coast Conference
+NCAA FBS
+PITT
+68.27
+
+Rhode Island
+University of Rhode Island
+Kingston, Rhode Island
+New England
+Atlantic 10 Conference
+NCAA FCS
+RI
+20.21
+
+Richmond
+University of Richmond
+Virginia
+Mid East
+Atlantic 10 Conference
+NCAA FCS
+RICH
+20.21
+
+San Diego
+University of San Diego
+San Diego, California
+West Coast
+West Coast Conference
+NCAA FCS
+SDG
+15
+
+S Alabama
+University of South Alabama
+Mobile, Alabama
+South East
+Sun Belt Conference
+NCAA FBS
+SALA
+40
+
+South Carolina
+University of South Carolina
+Columbia, South Carolina
+South East
+Southeastern Conference
+NCAA FBS
+SC
+60
+
+South Dakota
+University of South Dakota
+Vermillion, South Dakota
+North West
+The Summit League
+NCAA FCS
+SD
+15
+
+USF
+University of South Florida
+Tampa, Florida
+South East
+American Athletic Conference
+NCAA FBS
+SFLA
+40
+
+USC
+University of Southern California
+Los Angeles, California
+West Coast
+Pacific-12 Conference
+NCAA FBS
+USC
+74.12
+
+S Mississippi
+University of Southern Mississippi
+Hattiesburg, Mississippi
+Mid South
+Conference USA
+NCAA FBS
+USM
+40
+
+St. Thomas
+University of St. Thomas – Minnesota
+Saint Paul, Minnesota
+Mid West
+The Summit League
+NCAA FCS
+STTHMN
+15
+
+Tennessee
+University of Tennessee
+Knoxville, Tennessee
+Mid East
+Southeastern Conference
+NCAA FBS
+TENN
+60
+
+Chattanooga
+University of Tennessee – Chattanooga
+Chattanooga, Tennessee
+Mid East
+Southern Conference
+NCAA FCS
+TNCHAT
+28.28
+
+UT Martin
+University of Tennessee – Martin
+Martin, Tennessee
+Mid East
+Ohio Valley Conference
+NCAA FCS
+TNMART
+26.97
+
+Texas
+University of Texas – Austin
+Austin, Texas
+Mid South
+Big 12 Conference
+NCAA FBS
+TEXAS
+60
+
+UTEP
+University of Texas – El Paso
+El Paso, Texas
+Mid South
+Conference USA
+NCAA FBS
+UTEP
+40
+
+UTSA
+University of Texas – San Antonio
+San Antonio, Texas
+Mid South
+Conference USA
+NCAA FBS
+TXSA
+40
+
+Incarnate Word
+University of the Incarnate Word
+San Antonio, Texas
+Mid South
+Southland Conference
+NCAA FCS
+UIW
+27.68
+
+Toledo
+University of Toledo
+Toledo, Ohio
+Great Lakes
+Mid-American Conference
+NCAA FBS
+TOLEDO
+40
+
+Tulsa
+University of Tulsa
+Tulsa, Oklahoma
+Mid South
+American Athletic Conference
+NCAA FBS
+TULSA
+40
+
+Utah
+University of Utah
+Salt Lake City, Utah
+South West
+Pacific-12 Conference
+NCAA FBS
+UTAH
+83.02
+
+Virginia
+University of Virginia
+Charlottesville, Virginia
+Mid East
+Atlantic Coast Conference
+NCAA FBS
+UVA
+55
+
+Washington
+University of Washington
+Seattle, Washington
+West Coast
+Pacific-12 Conference
+NCAA FBS
+WASH
+50
+
+Wisconsin
+University of Wisconsin
+Madison, Wisconsin
+Great Lakes
+Big Ten Conference
+NCAA FBS
+WISC
+67.95
+
+Wyoming
+University of Wyoming
+Laramie, Wyoming
+North West
+Mountain West Conference
+NCAA FBS
+WYO
+40
+
+Utah State
+Utah State University
+Logan, Utah
+South West
+Mountain West Conference
+NCAA FBS
+UTAHST
+40
+
+Valparaiso
+Valparaiso University
+Valparaiso, Indiana
+Great Lakes
+Missouri Valley Conference
+NCAA FCS
+VALPO
+15
+
+Vanderbilt
+Vanderbilt University
+Nashville, Tennessee
+Mid East
+Southeastern Conference
+NCAA FBS
+VANDY
+60
+
+Villanova
+Villanova University
+Villanova, Pennsylvania
+North East
+Big East Conference
+NCAA FCS
+NOVA
+35.33
+
+VMI
+Virginia Military Institute – VMI
+Lexington, Virginia
+Mid East
+Southern Conference
+NCAA FCS
+VMI
+15
+
+Virginia Tech
+Virginia Tech
+Blacksburg, Virginia
+Mid East
+Atlantic Coast Conference
+NCAA FBS
+VATECH
+55
+
+Wagner
+Wagner College
+Staten Island, New York
+North East
+Northeast Conference
+NCAA FCS
+WAG
+15
+
+Wake Forest
+Wake Forest University
+Winston-Salem, North Carolina
+Mid East
+Atlantic Coast Conference
+NCAA FBS
+WAKE
+66.84
+
+Washington St.
+Washington State University
+Pullman, Washington
+West Coast
+Pacific-12 Conference
+NCAA FBS
+WASHST
+50
+
+Weber State
+Weber State University
+Ogden, Utah
+South West
+Big Sky Conference
+NCAA FCS
+WBRST
+22.87
+
+West Virginia
+West Virginia University
+Morgantown, West Virginia
+Mid East
+Big 12 Conference
+NCAA FBS
+WVU
+60
+
+W Carolina
+Western Carolina University
+Cullowhee, North Carolina
+Mid East
+Southern Conference
+NCAA FCS
+WCAR
+15
+
+W Illinois
+Western Illinois University
+Macomb, Illinois
+Great Lakes
+The Summit League
+NCAA FCS
+WIL
+15
+
+W Kentucky
+Western Kentucky University
+Bowling Green, Kentucky
+Mid East
+Conference USA
+NCAA FBS
+WKY
+40
+
+W Michigan
+Western Michigan University
+Kalamazoo, Michigan
+Great Lakes
+Mid-American Conference
+NCAA FBS
+WMICH
+40
+
+William & Mary
+William & Mary
+Williamsburg, Virginia
+Mid East
+Colonial Athletic Association
+NCAA FCS
+WMMARY
+15
+
+Wofford
+Wofford College
+Spartanburg, South Carolina
+South East
+Southern Conference
+NCAA FCS
+WOFF
+15
+
+Yale
+Yale University
+New Haven, Connecticut
+New England
+Ivy League
+NCAA FCS
+YALE
+15
+
+Youngstown
+Youngstown State University
+Youngstown, Ohio
+Great Lakes
+Horizon League
+NCAA FCS
+YST
+15
